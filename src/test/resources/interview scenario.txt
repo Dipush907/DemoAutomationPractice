@@ -1,0 +1,25 @@
+Log in to app,
+Click on tshirts,
+Select the default product by Hovering on it and add to cart,
+increase the qnt of product by one ,
+and capture the price
+proceed to check out,
+proceed to check out,
+capture the shipping price,
+click on proceed to chekc out,
+varify with the total price of produyct and shiiping.
+
+NOTE-----
+===========================-====
+PAge factory is mandatory
+PAge object is mandatory 
+Run with testNG
+
+
+- Where did you use implicite and excplicit wait in thta automation and why?
+
+- did you use any external resource to store test data for your project!
+
+- Why did you use webdrivermanager dependency?
+
+- In restassured how do you parce/assert the JSON response?
